@@ -1,0 +1,5 @@
+
+total Seats = 100
+group seats= 25
+ Min group students = 19	Max group students =21
+congrats!!!!!!!!!! this strategy is applicable 
